@@ -1,4 +1,4 @@
-OWNERDOMAIN=prooplayerrzd.com
+OWNERDOMAIN=byggservicenb.xyz
 
 # AppLovin
 applovin.com, 40f1583c4651a8b872409f9f0ae7d36a, DIRECT
